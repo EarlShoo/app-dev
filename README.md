@@ -1,5 +1,5 @@
 # app-dev
-My first repository
+## My first repository
 # *Queen of Tears*
 
 ![image](https://github.com/user-attachments/assets/b49d0dbb-49c9-4f08-b522-caa7db9b7297)
